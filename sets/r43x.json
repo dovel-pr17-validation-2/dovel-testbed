@@ -1,0 +1,202 @@
+[
+  {
+    "index": 1,
+    "source": "adaltas/node-csv",
+    "mirror": "dovel-pr17-validation-2/pr17r43-npm-node-csv",
+    "branch": "master",
+    "ecosystem": "npm",
+    "runner": "2404"
+  },
+  {
+    "index": 2,
+    "source": "MCPJam/inspector",
+    "mirror": "dovel-pr17-validation-2/pr17r43-npm-inspector",
+    "branch": "main",
+    "ecosystem": "npm",
+    "runner": "2604"
+  },
+  {
+    "index": 3,
+    "source": "nextcloud/tables",
+    "mirror": "dovel-pr17-validation-2/pr17r43-npm-tables",
+    "branch": "main",
+    "ecosystem": "npm",
+    "runner": "2604"
+  },
+  {
+    "index": 4,
+    "source": "qawolf/cli",
+    "mirror": "dovel-pr17-validation-2/pr17r43-npm-cli",
+    "branch": "main",
+    "ecosystem": "npm",
+    "runner": "2604"
+  },
+  {
+    "index": 5,
+    "source": "i18next/next-i18next",
+    "mirror": "dovel-pr17-validation-2/pr17r43-npm-next-i18next",
+    "branch": "master",
+    "ecosystem": "npm",
+    "runner": "2404"
+  },
+  {
+    "index": 6,
+    "source": "metorial/metorial-platform",
+    "mirror": "dovel-pr17-validation-2/pr17r43-npm-metorial-platform",
+    "branch": "dev",
+    "ecosystem": "npm",
+    "runner": "2604"
+  },
+  {
+    "index": 7,
+    "source": "digitalbazaar/forge",
+    "mirror": "dovel-pr17-validation-2/pr17r43-npm-forge",
+    "branch": "main",
+    "ecosystem": "npm",
+    "runner": "2404"
+  },
+  {
+    "index": 8,
+    "source": "postalsys/emailengine",
+    "mirror": "dovel-pr17-validation-2/pr17r43-npm-emailengine",
+    "branch": "master",
+    "ecosystem": "npm",
+    "runner": "2404"
+  },
+  {
+    "index": 9,
+    "source": "paper-design/shaders",
+    "mirror": "dovel-pr17-validation-2/pr17r43-npm-shaders",
+    "branch": "main",
+    "ecosystem": "npm",
+    "runner": "2404"
+  },
+  {
+    "index": 10,
+    "source": "revsys/django-test-plus",
+    "mirror": "dovel-pr17-validation-2/pr17r43-pypi-django-test-plus",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2404"
+  },
+  {
+    "index": 11,
+    "source": "chunkhound/chunkhound",
+    "mirror": "dovel-pr17-validation-2/pr17r43-pypi-chunkhound",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2604"
+  },
+  {
+    "index": 12,
+    "source": "webrecorder/pywb",
+    "mirror": "dovel-pr17-validation-2/pr17r43-pypi-pywb",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2404"
+  },
+  {
+    "index": 13,
+    "source": "meshcore-dev/meshcore-ha",
+    "mirror": "dovel-pr17-validation-2/pr17r43-pypi-meshcore-ha",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2404"
+  },
+  {
+    "index": 14,
+    "source": "element-hq/ess-helm",
+    "mirror": "dovel-pr17-validation-2/pr17r43-pypi-ess-helm",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2404"
+  },
+  {
+    "index": 15,
+    "source": "graphsignal/graphsignal",
+    "mirror": "dovel-pr17-validation-2/pr17r43-pypi-graphsignal",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2604"
+  },
+  {
+    "index": 16,
+    "source": "chiefonboarding/ChiefOnboarding",
+    "mirror": "dovel-pr17-validation-2/pr17r43-pypi-chiefonboarding",
+    "branch": "master",
+    "ecosystem": "pypi",
+    "runner": "2604"
+  },
+  {
+    "index": 17,
+    "source": "mirumee/ariadne-codegen",
+    "mirror": "dovel-pr17-validation-2/pr17r43-pypi-ariadne-codegen",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2604"
+  },
+  {
+    "index": 18,
+    "source": "sillohq/core",
+    "mirror": "dovel-pr17-validation-2/pr17r43-pypi-core",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2404"
+  },
+  {
+    "index": 19,
+    "source": "rulego/rulego",
+    "mirror": "dovel-pr17-validation-2/pr17r43-go-rulego",
+    "branch": "main",
+    "ecosystem": "go",
+    "runner": "2604"
+  },
+  {
+    "index": 20,
+    "source": "ergo-services/ergo",
+    "mirror": "dovel-pr17-validation-2/pr17r43-go-ergo",
+    "branch": "master",
+    "ecosystem": "go",
+    "runner": "2604"
+  },
+  {
+    "index": 21,
+    "source": "projectdiscovery/cdncheck",
+    "mirror": "dovel-pr17-validation-2/pr17r43-go-cdncheck",
+    "branch": "main",
+    "ecosystem": "go",
+    "runner": "2404"
+  },
+  {
+    "index": 22,
+    "source": "nixys/nxs-backup",
+    "mirror": "dovel-pr17-validation-2/pr17r43-go-nxs-backup",
+    "branch": "main",
+    "ecosystem": "go",
+    "runner": "2404"
+  },
+  {
+    "index": 23,
+    "source": "Notifiarr/notifiarr",
+    "mirror": "dovel-pr17-validation-2/pr17r43-go-notifiarr",
+    "branch": "main",
+    "ecosystem": "go",
+    "runner": "2404"
+  },
+  {
+    "index": 24,
+    "source": "txn2/kubefwd",
+    "mirror": "dovel-pr17-validation-2/pr17r43-go-kubefwd",
+    "branch": "master",
+    "ecosystem": "go",
+    "runner": "2404"
+  },
+  {
+    "index": 25,
+    "source": "qiniu/qshell",
+    "mirror": "dovel-pr17-validation-2/pr17r43-go-qshell",
+    "branch": "master",
+    "ecosystem": "go",
+    "runner": "2404"
+  }
+]
