@@ -1,0 +1,202 @@
+[
+  {
+    "index": 1,
+    "source": "clientIO/joint",
+    "mirror": "dovel-pr17-validation-2/pr17r41-npm-joint",
+    "branch": "master",
+    "ecosystem": "npm",
+    "runner": "2604"
+  },
+  {
+    "index": 2,
+    "source": "superserve-ai/superserve",
+    "mirror": "dovel-pr17-validation-2/pr17r41-npm-superserve",
+    "branch": "main",
+    "ecosystem": "npm",
+    "runner": "2404"
+  },
+  {
+    "index": 3,
+    "source": "hackerai-tech/hackerai",
+    "mirror": "dovel-pr17-validation-2/pr17r41-npm-hackerai",
+    "branch": "main",
+    "ecosystem": "npm",
+    "runner": "2404"
+  },
+  {
+    "index": 4,
+    "source": "streetsidesoftware/cspell",
+    "mirror": "dovel-pr17-validation-2/pr17r41-npm-cspell",
+    "branch": "main",
+    "ecosystem": "npm",
+    "runner": "2604"
+  },
+  {
+    "index": 5,
+    "source": "getsentry/toolkit",
+    "mirror": "dovel-pr17-validation-2/pr17r41-npm-toolkit",
+    "branch": "main",
+    "ecosystem": "npm",
+    "runner": "2604"
+  },
+  {
+    "index": 6,
+    "source": "holepunchto/hypercore",
+    "mirror": "dovel-pr17-validation-2/pr17r41-npm-hypercore",
+    "branch": "main",
+    "ecosystem": "npm",
+    "runner": "2404"
+  },
+  {
+    "index": 7,
+    "source": "nestjs/typeorm",
+    "mirror": "dovel-pr17-validation-2/pr17r41-npm-typeorm",
+    "branch": "master",
+    "ecosystem": "npm",
+    "runner": "2604"
+  },
+  {
+    "index": 8,
+    "source": "papra-hq/papra",
+    "mirror": "dovel-pr17-validation-2/pr17r41-npm-papra",
+    "branch": "main",
+    "ecosystem": "npm",
+    "runner": "2404"
+  },
+  {
+    "index": 9,
+    "source": "reown-com/appkit",
+    "mirror": "dovel-pr17-validation-2/pr17r41-npm-appkit",
+    "branch": "main",
+    "ecosystem": "npm",
+    "runner": "2604"
+  },
+  {
+    "index": 10,
+    "source": "traycerai/traycer",
+    "mirror": "dovel-pr17-validation-2/pr17r41-npm-traycer",
+    "branch": "main",
+    "ecosystem": "npm",
+    "runner": "2404"
+  },
+  {
+    "index": 11,
+    "source": "lightly-ai/lightly-train",
+    "mirror": "dovel-pr17-validation-2/pr17r41-pypi-lightly-train",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2604"
+  },
+  {
+    "index": 12,
+    "source": "portainer/portainer-mcp",
+    "mirror": "dovel-pr17-validation-2/pr17r41-pypi-portainer-mcp",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2404"
+  },
+  {
+    "index": 13,
+    "source": "Lightning-AI/LitServe",
+    "mirror": "dovel-pr17-validation-2/pr17r41-pypi-litserve",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2404"
+  },
+  {
+    "index": 14,
+    "source": "Datus-ai/Datus-agent",
+    "mirror": "dovel-pr17-validation-2/pr17r41-pypi-datus-agent",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2604"
+  },
+  {
+    "index": 15,
+    "source": "wemake-services/dotenv-linter",
+    "mirror": "dovel-pr17-validation-2/pr17r41-pypi-dotenv-linter",
+    "branch": "master",
+    "ecosystem": "pypi",
+    "runner": "2604"
+  },
+  {
+    "index": 16,
+    "source": "existence-master/Sentient",
+    "mirror": "dovel-pr17-validation-2/pr17r41-pypi-sentient",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2604"
+  },
+  {
+    "index": 17,
+    "source": "Lumen-Labs/brainapi2",
+    "mirror": "dovel-pr17-validation-2/pr17r41-pypi-brainapi2",
+    "branch": "main",
+    "ecosystem": "pypi",
+    "runner": "2604"
+  },
+  {
+    "index": 18,
+    "source": "Keeper-Security/Commander",
+    "mirror": "dovel-pr17-validation-2/pr17r41-pypi-commander",
+    "branch": "master",
+    "ecosystem": "pypi",
+    "runner": "2404"
+  },
+  {
+    "index": 19,
+    "source": "partcad/partcad",
+    "mirror": "dovel-pr17-validation-2/pr17r41-pypi-partcad",
+    "branch": "devel",
+    "ecosystem": "pypi",
+    "runner": "2404"
+  },
+  {
+    "index": 20,
+    "source": "android-sms-gateway/server",
+    "mirror": "dovel-pr17-validation-2/pr17r41-go-server",
+    "branch": "master",
+    "ecosystem": "go",
+    "runner": "2604"
+  },
+  {
+    "index": 21,
+    "source": "omnara-ai/omnara",
+    "mirror": "dovel-pr17-validation-2/pr17r41-go-omnara",
+    "branch": "main",
+    "ecosystem": "go",
+    "runner": "2604"
+  },
+  {
+    "index": 22,
+    "source": "dagucloud/dagu",
+    "mirror": "dovel-pr17-validation-2/pr17r41-go-dagu",
+    "branch": "main",
+    "ecosystem": "go",
+    "runner": "2604"
+  },
+  {
+    "index": 23,
+    "source": "projectdiscovery/uncover",
+    "mirror": "dovel-pr17-validation-2/pr17r41-go-uncover",
+    "branch": "main",
+    "ecosystem": "go",
+    "runner": "2404"
+  },
+  {
+    "index": 24,
+    "source": "projectdiscovery/wappalyzergo",
+    "mirror": "dovel-pr17-validation-2/pr17r41-go-wappalyzergo",
+    "branch": "main",
+    "ecosystem": "go",
+    "runner": "2404"
+  },
+  {
+    "index": 25,
+    "source": "schemahero/schemahero",
+    "mirror": "dovel-pr17-validation-2/pr17r41-go-schemahero",
+    "branch": "main",
+    "ecosystem": "go",
+    "runner": "2604"
+  }
+]
